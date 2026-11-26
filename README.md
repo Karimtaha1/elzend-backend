@@ -12,9 +12,6 @@ Node.js, Express, SQL Server, JWT, bcrypt, express-validator, Multer, Helmet and
 - Dashboard statistics and site settings
 - SQL table definitions and file-upload middleware
 
-## Source layout
-The backend source is included in `elzend-backend-source.zip`. Extract it into an empty directory before following setup below. The archive contains the same README, environment template and ignore rules, plus controllers, routes, middleware, schema and server files.
-
 ## Local setup
 1. Install Node.js and SQL Server.
 2. Run `npm install`.
